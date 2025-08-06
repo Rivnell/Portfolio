@@ -51,14 +51,6 @@ I approach challenges with **curiosity** and a **positive mindset**, always eage
 
 ---
 
-## 📬 Let’s Connect
-
-- [LinkedIn](#www.linkedin.com/in/esurazynska)  
-- [Email](mailto:ela.surazynska@gmail.com)  
-- [Portfolio](#www.github.com/Rivnell/LeagueofTests) 
-
----
-
-### 🧵 Pro Tip:
+### 🧠 Pro Tip:
 > **When in doubt, test like it’s under turret, and crochet like it’s winter.**
 

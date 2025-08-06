@@ -12,7 +12,7 @@ With **three years of experience in software testing** at one of the world’s l
 I approach challenges with **curiosity** and a **positive mindset**, always eager to learn something new.
 
 > 🎮 Proficient in playing **video games** (mostly League of Legends - ARAM)  
-> 🧶 And **crocheting** — like, actual blankets and stuff
+> 🧶 And **crocheting** — actual blankets
 
 ---
 
@@ -28,33 +28,17 @@ I approach challenges with **curiosity** and a **positive mindset**, always eage
 
 ## 🔧 Tech Stack
 
-| Tool           | Purpose               |
-|----------------|-----------------------|
-| ServiceNow     | Creating test cases,  |
-|                | reporting defects     |
-| Playwright     | End-to-end automation |
-| Postman        | API testing           |
-| GitLab Actions | CI/CD pipelines       |
-| Snagit         | Capturing evidence    |
+| Tool           | Purpose                                    |
+|----------------|--------------------------------------------|
+| ServiceNow     | Creating test cases, reporting defects     |
+| Playwright     | End-to-end automation                      |
+| Postman        | API testing                                |
+| GitLab Actions | CI/CD pipelines                            |
+| Snagit         | Capturing evidence                         |
 
 ---
 
 ## 🚀 Projects
-
-| Project       | Description                                    |
-|---------------|------------------------------------------------|
-| `WaveTest`    | Modular automation framework for UI + API      |
-| `RiskRadar`   | Regression suite for a risk identification app |
-| `BugSniper`   | Precision-focused flaky test eliminator        |
-
----
-
-## 🎯 QA Highlights
-
-- 🐛 100+ bugs caught before release
-- 📉 
-- 🤝 Cross-team collaboration with devs, BAs, and stakeholders
-- 💬 Clear documentation and test evidence for audits
 
 ---
 

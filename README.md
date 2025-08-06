@@ -55,7 +55,7 @@ I approach challenges with **curiosity** and a **positive mindset**, always eage
 
 - [LinkedIn](#www.linkedin.com/in/esurazynska)  
 - [Email](mailto:ela.surazynska@gmail.com)  
-- [Portfolio](#) *(TBD)*
+- [Portfolio](#https://github.com/Rivnell/LeagueofTests) 
 
 ---
 

@@ -1,7 +1,9 @@
-# 🧵 WaveTest
+# 💻 WaveTest
 
 Automated software testing powered by clean code, chaotic ARAM energy, and yarn-based stress management.  
 Because bugs fear structured coverage and a well-placed trap.
+
+✅ [PORTFOLIO HERE](https://github.com/Rivnell/LeagueofTests)
 
 ---
 
@@ -16,7 +18,7 @@ I approach challenges with **curiosity** and a **positive mindset**, always eage
 
 ---
 
-## 🧪 Test Philosophy
+## 🐛 Test Philosophy
 
 > “I test like I support in ARAM: watching the map, predicting mistakes, and saving the team from disaster.”  
 

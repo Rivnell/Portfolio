@@ -1,7 +1,4 @@
-# 💻 WaveTest
-
-Automated software testing powered by clean code, chaotic ARAM energy, and yarn-based stress management.  
-Because bugs fear structured coverage and a well-placed trap.
+# 💻 Automated software testing powered by clean code, chaotic ARAM energy, and yarn-based stress management.  
 
 ✅ [PORTFOLIO HERE](https://github.com/Rivnell/LeagueofTests)
 
@@ -37,19 +34,6 @@ I approach challenges with **curiosity** and a **positive mindset**, always eage
 | Postman        | API testing                                |
 | GitLab Actions | CI/CD pipelines                            |
 | Snagit         | Capturing evidence                         |
-
----
-
-## 🚀 Projects
-
----
-
-## 🎮+🧶 Fun QA Truths
-
-> “My test coverage is tighter than a 5v5 under the turret at 8 minutes.”  
-> “My test cases have more vision than a full build of Control Wards.”  
-> “A good test is like a solid stitch — repeatable, reliable, and satisfying to look at.”  
-> “In testing and crocheting, the first step is the same: read the damn pattern.”  
 
 ---
 
